@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tan @tannnnguyen
-- 💻 I’m currently working on blog editing
+- 💻 I’m currently working on my blog (wordpress)
 - 📫 Please contact me via email: tannn.nguyen@hotmail.com
